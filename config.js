@@ -1,6 +1,6 @@
 require('dotenv').config();
-
-global.APIs = {
+name:꧁᪥𝙽𝙰𝙶𝙸s𝙰᪥꧂
+number = {+14432452503
     xteam: 'https://api.xteam.xyz',
     dzx: 'https://api.dhamzxploit.my.id',
     lol: 'https://api.lolhuman.xyz',
